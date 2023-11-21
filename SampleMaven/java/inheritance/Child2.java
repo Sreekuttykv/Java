@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 
 public class Child2 extends Child{
 	public void sum()

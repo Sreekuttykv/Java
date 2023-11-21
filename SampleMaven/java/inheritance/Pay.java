@@ -15,3 +15,4 @@ public class Pay {
 		bonus=sc.nextDouble();
 	}
 }
+ 
