@@ -1,6 +1,6 @@
 package sample;
 
-public class Calculator {
+public class Calculator  {
 	int a=10,b=5;
 	public void add()
 	{
